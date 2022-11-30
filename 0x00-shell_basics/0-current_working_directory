@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "/tmp/correction/1356932270670783790874872985450775691781_5/205/212220/0x00-shell_basics"
+echo pwd
